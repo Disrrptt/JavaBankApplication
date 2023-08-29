@@ -1,7 +1,7 @@
 # JavaBankApplication
 
 
-Application carried out for learning purposes by the object-oriented Java course| Aplicação realizada a fins de aprendizado pelo curso de Java orientado a objetos
+Application carried out for learning purposes by the object-oriented Java course | Aplicação realizada a fins de aprendizado pelo curso de Java orientado a objetos
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
